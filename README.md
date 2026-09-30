@@ -64,24 +64,16 @@ Analyzing time and space complexity
 Practicing common operations and algorithms
 
 Getting Started
+Clone the Repository
+git clone https://github.com/tajammulasghar/data-structures-cpp.git
 
-Clone the repository:
-
-git clone https://github.com/your-username/data-structures-cpp.git
-
-
-Navigate to the project:
-
+Navigate to the Project
 cd data-structures-cpp
 
-
-Compile a C++ file:
-
+Compile a C++ File
 g++ filename.cpp -o program
 
-
-Run the program:
-
+Run the Program
 ./program
 
 Progress
