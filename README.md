@@ -47,7 +47,7 @@ git clone https://github.com/your-username/data-structures-cpp.git
 ```
 ## Purpose
 
--The purpose of this repository is to build a strong understanding of Data Structures and Algorithms using C++.
+"The purpose of this repository is to build a strong understanding of Data Structures and Algorithms using C++."
 
 ### This repository helps with:
 - Understanding how data structures work internally
