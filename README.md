@@ -40,6 +40,11 @@ data-structures-cpp/
 └── README.md
 ```
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/data-structures-cpp.git
+```
 ## Purpose
 
 -The purpose of this repository is to build a strong understanding of Data Structures and Algorithms using C++.
